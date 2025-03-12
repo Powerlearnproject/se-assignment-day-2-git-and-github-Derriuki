@@ -2,9 +2,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18455185&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Version control systems help you store and track changes made to your code over time with Github a very popular platform due to its cloud based nature which means you can access your code in whichever device you have at hand while also allowing other people to view and interact with your code. Moreover, Github allows Developers to collaborate on a project despite being stationed in different locations.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-
+- Open your browser and navigate to https://github.com
+- After loading the site, log in or sign up a new account if you don't have one
+- On accessing the site, go to your profile page and click on the "Repositories" tab. Thereafter, click the on "New" button
+- Fill in the required details on the form that is generated
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
